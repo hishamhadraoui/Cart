@@ -1,0 +1,14 @@
+{
+    "name": "hishamhadraoui/cart",
+    "type": "library",
+    "description": "Your package description goes here",
+    "keywords": ["relevant","php","cart"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hisham Hadraoui",
+            "email": "hishamhadraoui@gmail.com",
+            "role": "Developer"
+        }
+    ]
+}
